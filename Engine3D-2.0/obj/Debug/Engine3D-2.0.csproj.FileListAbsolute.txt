@@ -1,0 +1,16 @@
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D-2.0.csproj.AssemblyReference.cache
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D_2._0.Properties.Resources.resources
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D-2.0.csproj.GenerateResource.cache
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D-2.0.csproj.CoreCompileInputs.cache
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\bin\Debug\Engine3D-2.0.exe.config
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\bin\Debug\Engine3D-2.0.exe
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\bin\Debug\Engine3D-2.0.pdb
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D-2.0.exe
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D-2.0.pdb
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D_2._0.MainForm.resources
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D_2._0.CameraSettingsForm.resources
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D_2._0.PolyEditorForm.resources
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D_2._0.PenSettingsForm.resources
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\bin\Debug\MIConvexHull.dll
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\bin\Debug\MIConvexHull.pdb
+C:\Users\gusrm\source\repos\Engine3D-2.0\Engine3D-2.0\obj\Debug\Engine3D.813B557B.Up2Date
