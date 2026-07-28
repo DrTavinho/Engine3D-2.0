@@ -41,19 +41,19 @@ Entre os tópicos abordados estão:
 
 A engine permite criar diversos sólidos tridimensionais diretamente pela interface.
 
-Atualmente estão disponíveis:
+Estão disponíveis inicialmente:
 
 - Cubo
-- Paralelepípedo
-- Prisma
 - Pirâmide
 - Tronco de Pirâmide
-- Tetraedro
-- Octaedro
+- Prisma
+- Prisma Reto
 - Icosaedro
 - Dodecaedro
 
-> **ADICIONAR IMAGEM DO MENU DE CRIAÇÃO**
+Porém cada poliedro pode ser editado individualmente e pode ter seu estado inicial de criação modificado.
+
+<img width="456" height="188" alt="image" src="https://github.com/user-attachments/assets/0455ca13-3607-4be2-9407-3a6c58fbee85" />
 
 > **ADICIONAR GIF CRIANDO DIFERENTES POLIEDROS**
 
@@ -85,7 +85,7 @@ Além das propriedades tradicionais do objeto, todos os vértices são adicionad
 
 Cada vértice pode ser expandido individualmente para editar suas coordenadas X, Y e Z.
 
-> **ADICIONAR IMAGEM DA PROPERTYGRID**
+<img width="223" height="366" alt="image" src="https://github.com/user-attachments/assets/3f887f3f-9a5d-4f63-86fd-8e0aad382aa2" />
 
 ---
 
@@ -176,6 +176,8 @@ Cada face possui:
 
 Isso permite visualizar melhor o volume dos objetos.
 
+*Este recurso é experimental e não funciona corretamente com múltiplos poliedros na cena.*
+
 > **ADICIONAR GIF DO SOMBREAMENTO**
 
 ---
@@ -202,7 +204,7 @@ A viewport possui um grid tridimensional para auxiliar na orientação espacial.
 
 Também é possível alterar dinamicamente o espaçamento entre as linhas.
 
-> **ADICIONAR IMAGEM DO GRID**
+<img width="541" height="604" alt="image" src="https://github.com/user-attachments/assets/9d918737-419f-42ee-92ec-8715cc49032c" />
 
 ---
 
@@ -221,7 +223,7 @@ Ela é composta por:
 
 Todo o sistema permanece sincronizado em tempo real.
 
-> **ADICIONAR IMAGEM GERAL DA INTERFACE**
+<img width="783" height="668" alt="image" src="https://github.com/user-attachments/assets/6cfd20c6-c8f7-4ee9-a892-88ea13cb032c" />
 
 ---
 
@@ -298,7 +300,7 @@ https://github.com/DesignEngrLab/MIConvexHull
 
 ---
 
-# Próximas Funcionalidades
+# Possíveis melhorias futuras
 
 - Back-Face Culling
 - Z-Buffer
