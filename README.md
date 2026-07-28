@@ -160,7 +160,7 @@ O processo consiste em:
 
 Nenhuma biblioteca gráfica externa é utilizada.
 
-> **ADICIONAR GIF DA RENDERIZAÇÃO**
+<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/8938d211-fbff-4759-a07b-dc2bffed9c18" />
 
 ---
 
@@ -178,7 +178,7 @@ Isso permite visualizar melhor o volume dos objetos.
 
 *Este recurso é experimental e não funciona corretamente com múltiplos poliedros na cena.*
 
-> **ADICIONAR GIF DO SOMBREAMENTO**
+<img width="282" height="284" alt="image" src="https://github.com/user-attachments/assets/07198a2d-4838-49dc-a6ca-bd1bc772394b" />
 
 ---
 
