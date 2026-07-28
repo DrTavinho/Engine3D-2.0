@@ -223,7 +223,7 @@ Ela é composta por:
 
 Todo o sistema permanece sincronizado em tempo real.
 
-<img width="783" height="668" alt="image" src="https://github.com/user-attachments/assets/6cfd20c6-c8f7-4ee9-a892-88ea13cb032c" />
+<img width="783" height="669" alt="image" src="https://github.com/user-attachments/assets/a5faa6fb-ae2f-46d0-b562-ac34c7ccaedd" />
 
 ---
 
