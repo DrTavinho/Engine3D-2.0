@@ -141,7 +141,7 @@ Para mais possibilidades, é possível alterar vários atributos dos poliedros b
 <img width="383" height="341" alt="image" src="https://github.com/user-attachments/assets/dae9d3fa-d2c8-49eb-8a5f-581efd418fb3" />
 <img width="383" height="339" alt="image" src="https://github.com/user-attachments/assets/c396bb9f-60ef-4621-a79b-64e35c7d3349" />
 
-Exemplo de uma modificação do prisma com 20 vértices em seu centro:
+Exemplo de uma modificação do prisma com 20 vértices em seu anel central:
 
 <img width="342" height="350" alt="image" src="https://github.com/user-attachments/assets/b48ae391-82dd-4d63-a9e6-dc6fa8e93b09" />
 
