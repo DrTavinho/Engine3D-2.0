@@ -43,12 +43,12 @@ A interface foi inspirada em softwares CAD e modeladores 3D.
 
 Ela é composta por:
 
-- viewport;
-- PropertyGrid;
-- lista de objetos;
-- barra de menus;
-- barra de ferramentas;
-- barra de status.
+- viewport
+- PropertyGrid
+- lista de objetos
+- barra de menus
+- barra de ferramentas
+- barra de status
 
 Todo o sistema permanece sincronizado em tempo real.
 
@@ -62,11 +62,11 @@ A câmera possui movimentação semelhante à encontrada em engines profissionai
 
 Recursos:
 
-- movimentação WASD;
-- movimentação vertical;
-- rotação por mouse;
-- controle do Field of View (FOV);
-- movimentação baseada na orientação da câmera.
+- movimentação WASD
+- movimentação vertical
+- rotação por mouse
+- controle do Field of View (FOV)
+- movimentação baseada na orientação da câmera
 - sensibilidade da câmera segundo o DPI do mouse
 - ajuste da velocidade de voo da câmera no espaço
 - inversão de movimento X e Y do mouse para câmera
@@ -94,10 +94,10 @@ Toda a renderização wireframe é realizada manualmente.
 
 O processo consiste em:
 
-- transformação dos vértices;
-- conversão para espaço da câmera;
-- projeção em perspectiva;
-- desenho das arestas utilizando GDI+.
+- transformação dos vértices
+- conversão para espaço da câmera
+- projeção em perspectiva
+- desenho das arestas utilizando GDI+
 
 Nenhuma biblioteca gráfica externa é utilizada.
 
@@ -155,9 +155,7 @@ Cada objeto possui transformações independentes.
 
 - Posição
 - Escala
-- Rotação em X
-- Rotação em Y
-- Rotação em Z
+- Rotação em X / Y / Z
 
 Todas as transformações são aplicadas em tempo real.
 
@@ -183,10 +181,10 @@ Cada vértice pode ser selecionado diretamente na viewport.
 
 Ao selecionar um vértice:
 
-- ele recebe destaque visual;
-- o poliedro correspondente é selecionado;
-- a PropertyGrid navega automaticamente até aquele vértice;
-- a lista de objetos da cena também é atualizada.
+- ele recebe destaque visual
+- o poliedro correspondente é selecionado
+- a PropertyGrid navega automaticamente até aquele vértice
+- a lista de objetos da cena também é atualizada
 
 <img width="782" height="542" alt="ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/4f086fa6-c057-4522-976d-04517477c00a" />
 
@@ -198,10 +196,10 @@ A engine permite remover vértices individualmente.
 
 Após a remoção:
 
-- identifica os vértices vizinhos;
-- calcula o centroide da região;
-- estima a normal da nova face;
-- reconecta automaticamente a geometria.
+- identifica os vértices vizinhos
+- calcula o centroide da região
+- estima a normal da nova face
+- reconecta automaticamente a geometria
 
 Esse processo permite alterar a estrutura dos sólidos dinamicamente.
 
@@ -219,9 +217,9 @@ Após o cálculo das faces, é possível realizar uma renderização preenchida 
 
 Cada face possui:
 
-- cálculo da normal;
-- iluminação difusa simples;
-- intensidade calculada através do produto escalar (modelo de Lambert).
+- cálculo da normal
+- iluminação difusa simples
+- intensidade calculada através do produto escalar (modelo de Lambert)
 
 Isso permite visualizar melhor o volume dos objetos.
 
