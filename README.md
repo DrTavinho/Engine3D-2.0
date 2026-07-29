@@ -58,7 +58,7 @@ Todo o sistema permanece sincronizado em tempo real.
 
 ## Câmera Livre
 
-A câmera possui movimentação semelhante à encontrada em engines profissionais.
+A câmera possui movimentação semelhante à encontrada em engines profissionais ou jogos em primeira pessoa.
 
 Recursos:
 
