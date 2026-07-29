@@ -215,7 +215,7 @@ Isso permite que novos poliedros sejam gerados dinamicamente sem necessidade de 
 
 ## Sombreamento
 
-Após o cálculo das faces, a engine também realiza uma renderização preenchida.
+Após o cálculo das faces, é possível realizar uma renderização preenchida para dar efeito de sombreamento.
 
 Cada face possui:
 
