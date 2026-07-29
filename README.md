@@ -82,7 +82,7 @@ Recursos:
 
 A viewport possui um grid tridimensional para auxiliar na orientação espacial.
 
-Também é possível alterar dinamicamente o espaçamento entre as linhas.
+Também é possível alterar dinamicamente o espaçamento entre as linhas pressionando as teclas "+" ou "-" enquanto move a câmera.
 
 <img width="541" height="604" alt="image" src="https://github.com/user-attachments/assets/9d918737-419f-42ee-92ec-8715cc49032c" />
 
@@ -129,6 +129,21 @@ Porém cada poliedro pode ser editado individualmente e pode ter seu estado inic
 
 <img width="784" height="538" alt="2026-07-2822-28-46-ezgif com-optimize" src="https://github.com/user-attachments/assets/6c8ea42b-633c-4b62-a7d0-2836dd9e5ccc" />
 <img width="784" height="542" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/e797c05e-0eec-489a-bcd8-f5dd25e3b044" />
+
+---
+
+## Edição de Poliedros
+
+Para mais possibilidades, é possível alterar vários atributos dos poliedros base no **Editor de Poliedros**.
+
+<img width="382" height="342" alt="image" src="https://github.com/user-attachments/assets/3fe8b1fc-308e-413f-b082-bd900e647f16" />
+<img width="383" height="339" alt="image" src="https://github.com/user-attachments/assets/ebeab2cb-8828-479d-9391-192aff0e3b49" />
+<img width="383" height="341" alt="image" src="https://github.com/user-attachments/assets/dae9d3fa-d2c8-49eb-8a5f-581efd418fb3" />
+<img width="383" height="339" alt="image" src="https://github.com/user-attachments/assets/c396bb9f-60ef-4621-a79b-64e35c7d3349" />
+
+Exemplo de uma modificação do prisma com 20 vértices em seu centro:
+
+<img width="342" height="350" alt="image" src="https://github.com/user-attachments/assets/b48ae391-82dd-4d63-a9e6-dc6fa8e93b09" />
 
 ---
 
