@@ -84,7 +84,7 @@ A viewport possui um grid tridimensional para auxiliar na orientação espacial.
 
 Também é possível alterar dinamicamente o espaçamento entre as linhas pressionando as teclas "+" ou "-" enquanto move a câmera.
 
-<img width="541" height="604" alt="image" src="https://github.com/user-attachments/assets/9d918737-419f-42ee-92ec-8715cc49032c" />
+<img width="517" height="328" alt="image" src="https://github.com/user-attachments/assets/4b1f8ee4-efb9-4e4a-8936-ccde5a779cc8" />
 
 ---
 
