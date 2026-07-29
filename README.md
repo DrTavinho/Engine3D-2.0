@@ -101,7 +101,7 @@ Ao selecionar um vértice:
 - a PropertyGrid navega automaticamente até aquele vértice;
 - a lista de objetos da cena também é atualizada.
 
-> **ADICIONAR GIF DA SELEÇÃO DE VÉRTICES**
+<img width="782" height="542" alt="ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/4f086fa6-c057-4522-976d-04517477c00a" />
 
 ---
 
