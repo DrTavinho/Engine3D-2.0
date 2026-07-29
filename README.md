@@ -37,26 +37,54 @@ Entre os tópicos abordados estão:
 
 # Funcionalidades
 
-## Criação Procedural de Poliedros
+## Interface
 
-A engine permite criar diversos sólidos tridimensionais diretamente pela interface.
+A interface foi inspirada em softwares CAD e modeladores 3D.
 
-Estão disponíveis inicialmente:
+Ela é composta por:
 
-- Cubo
-- Pirâmide
-- Tronco de Pirâmide
-- Prisma
-- Prisma Reto
-- Icosaedro
-- Dodecaedro
+- viewport;
+- PropertyGrid;
+- lista de objetos;
+- barra de menus;
+- barra de ferramentas;
+- barra de status.
 
-Porém cada poliedro pode ser editado individualmente e pode ter seu estado inicial de criação modificado.
+Todo o sistema permanece sincronizado em tempo real.
 
-<img width="456" height="188" alt="image" src="https://github.com/user-attachments/assets/0455ca13-3607-4be2-9407-3a6c58fbee85" />
+<img width="783" height="669" alt="image" src="https://github.com/user-attachments/assets/a5faa6fb-ae2f-46d0-b562-ac34c7ccaedd" />
 
-<img width="784" height="538" alt="2026-07-2822-28-46-ezgif com-optimize" src="https://github.com/user-attachments/assets/6c8ea42b-633c-4b62-a7d0-2836dd9e5ccc" />
-<img width="784" height="542" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/e797c05e-0eec-489a-bcd8-f5dd25e3b044" />
+---
+
+## Câmera Livre
+
+A câmera possui movimentação semelhante à encontrada em engines profissionais.
+
+Recursos:
+
+- movimentação WASD;
+- movimentação vertical;
+- rotação por mouse;
+- controle do Field of View (FOV);
+- movimentação baseada na orientação da câmera.
+- sensibilidade da câmera segundo o DPI do mouse
+- ajuste da velocidade de voo da câmera no espaço
+- inversão de movimento X e Y do mouse para câmera
+
+<img width="274" height="147" alt="image" src="https://github.com/user-attachments/assets/13a0b7bb-e35a-4056-a224-ba6be2bff67a" />
+<img width="258" height="295" alt="image" src="https://github.com/user-attachments/assets/8c102c89-78ea-43aa-92ef-abf5f9176c9a" />
+
+<img width="782" height="534" alt="ezgif com-optimize (4)" src="https://github.com/user-attachments/assets/5c4781b3-a688-46a4-b2ab-d3a6bf1d0e2f" />
+
+---
+
+## Sistema de Grid
+
+A viewport possui um grid tridimensional para auxiliar na orientação espacial.
+
+Também é possível alterar dinamicamente o espaçamento entre as linhas.
+
+<img width="541" height="604" alt="image" src="https://github.com/user-attachments/assets/9d918737-419f-42ee-92ec-8715cc49032c" />
 
 ---
 
@@ -78,6 +106,29 @@ Nenhuma biblioteca gráfica externa é utilizada.
 Pode-se também alterar as configurações da caneta para facilitar a visualização dos vértices e arestas.
 
 <img width="520" height="362" alt="image" src="https://github.com/user-attachments/assets/04dc559a-580f-47f5-ba06-eda564bb6cb5" />
+
+---
+
+## Criação Procedural de Poliedros
+
+A engine permite criar diversos sólidos tridimensionais diretamente pela interface.
+
+Estão disponíveis inicialmente:
+
+- Cubo
+- Pirâmide
+- Tronco de Pirâmide
+- Prisma
+- Prisma Reto
+- Icosaedro
+- Dodecaedro
+
+Porém cada poliedro pode ser editado individualmente e pode ter seu estado inicial de criação modificado.
+
+<img width="456" height="188" alt="image" src="https://github.com/user-attachments/assets/0455ca13-3607-4be2-9407-3a6c58fbee85" />
+
+<img width="784" height="538" alt="2026-07-2822-28-46-ezgif com-optimize" src="https://github.com/user-attachments/assets/6c8ea42b-633c-4b62-a7d0-2836dd9e5ccc" />
+<img width="784" height="542" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/e797c05e-0eec-489a-bcd8-f5dd25e3b044" />
 
 ---
 
@@ -162,57 +213,6 @@ Isso permite visualizar melhor o volume dos objetos.
 *Este recurso é experimental e não funciona corretamente com múltiplos poliedros na cena.*
 
 <img width="282" height="284" alt="image" src="https://github.com/user-attachments/assets/07198a2d-4838-49dc-a6ca-bd1bc772394b" />
-
----
-
-## Câmera Livre
-
-A câmera possui movimentação semelhante à encontrada em engines profissionais.
-
-Recursos:
-
-- movimentação WASD;
-- movimentação vertical;
-- rotação por mouse;
-- controle do Field of View (FOV);
-- movimentação baseada na orientação da câmera.
-- sensibilidade da câmera segundo o DPI do mouse
-- ajuste da velocidade de voo da câmera no espaço
-- inversão de movimento X e Y do mouse para câmera
-
-<img width="274" height="147" alt="image" src="https://github.com/user-attachments/assets/13a0b7bb-e35a-4056-a224-ba6be2bff67a" />
-<img width="258" height="295" alt="image" src="https://github.com/user-attachments/assets/8c102c89-78ea-43aa-92ef-abf5f9176c9a" />
-
-> **ADICIONAR GIF DA NAVEGAÇÃO**
-
----
-
-## Sistema de Grid
-
-A viewport possui um grid tridimensional para auxiliar na orientação espacial.
-
-Também é possível alterar dinamicamente o espaçamento entre as linhas.
-
-<img width="541" height="604" alt="image" src="https://github.com/user-attachments/assets/9d918737-419f-42ee-92ec-8715cc49032c" />
-
----
-
-## Interface
-
-A interface foi inspirada em softwares CAD e modeladores 3D.
-
-Ela é composta por:
-
-- viewport;
-- PropertyGrid;
-- lista de objetos;
-- barra de menus;
-- barra de ferramentas;
-- barra de status.
-
-Todo o sistema permanece sincronizado em tempo real.
-
-<img width="783" height="669" alt="image" src="https://github.com/user-attachments/assets/a5faa6fb-ae2f-46d0-b562-ac34c7ccaedd" />
 
 ---
 
