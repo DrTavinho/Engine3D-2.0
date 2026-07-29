@@ -74,7 +74,7 @@ Cada objeto possui transformações independentes.
 
 Todas as transformações são aplicadas em tempo real.
 
-<img width="782" height="542" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/5831c46f-cd52-43fd-ab63-5612f4b1a624" />
+<img width="782" height="542" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/5903f9e4-4d89-41ea-b94c-daffd72d10fb" />
 
 ---
 
