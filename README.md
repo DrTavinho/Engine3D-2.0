@@ -139,13 +139,11 @@ Após a remoção:
 
 Esse processo permite alterar a estrutura dos sólidos dinamicamente.
 
-As faces não são armazenadas manualmente.
-
 Sempre que um poliedro é criado ou sofre alterações estruturais, é executado automaticamente o algoritmo **Convex Hull**, através da biblioteca **MIConvexHull**, reconstruindo toda a malha do sólido.
 
 Isso permite que novos poliedros sejam gerados dinamicamente sem necessidade de definir manualmente todas as faces.
 
-> **ADICIONAR GIF REMOVENDO VÉRTICES**
+<img width="782" height="538" alt="ezgif com-optimize (3)" src="https://github.com/user-attachments/assets/0fea24c1-306f-4c7e-b474-83dc96c08315" />
 
 ---
 
