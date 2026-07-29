@@ -236,11 +236,12 @@ Isso permite visualizar melhor o volume dos objetos.
 ```text
 Engine3D_2.0
 │
-├── Camera.cs
-├── CameraSettings.cs
+├── CameraSettingsForm.cs
 ├── MainForm.cs
 ├── PenSettingsForm.cs
 ├── PolyEditorForm.cs
+│
+├── Camera.cs
 ├── PolyFactory.cs
 ├── Polyhedron.cs
 ├── PolyhedronUtils.cs
