@@ -55,7 +55,7 @@ Porém cada poliedro pode ser editado individualmente e pode ter seu estado inic
 
 <img width="456" height="188" alt="image" src="https://github.com/user-attachments/assets/0455ca13-3607-4be2-9407-3a6c58fbee85" />
 
-> **ADICIONAR GIF CRIANDO DIFERENTES POLIEDROS**
+<img width="784" height="538" alt="2026-07-2822-28-46-ezgif com-optimize" src="https://github.com/user-attachments/assets/6c8ea42b-633c-4b62-a7d0-2836dd9e5ccc" />
 
 ---
 
