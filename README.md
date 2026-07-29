@@ -237,16 +237,20 @@ Isso permite visualizar melhor o volume dos objetos.
 Engine3D_2.0
 │
 ├── Camera.cs
+├── CameraSettings.cs
 ├── MainForm.cs
-├── Polyhedron.cs
+├── PenSettingsForm.cs
+├── PolyEditorForm.cs
 ├── PolyFactory.cs
+├── Polyhedron.cs
+├── PolyhedronUtils.cs
+├── PolySettings.cs
+├── Program.cs
+├── PropertyGridExtensions.cs
 ├── Vector3.cs
+├── Vertex.cs
 ├── Vertex3D.cs
-├── VertexPropertyDescriptor.cs
-│
-├── Forms/
-├── Resources/
-└── Properties/
+└── VertexPropDesc.cs
 ```
 
 ---
