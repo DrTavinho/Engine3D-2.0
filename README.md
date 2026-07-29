@@ -180,6 +180,11 @@ Recursos:
 - rotação por mouse;
 - controle do Field of View (FOV);
 - movimentação baseada na orientação da câmera.
+- sensibilidade da câmera segundo o DPI do mouse
+- ajuste da velocidade de voo da câmera no espaço
+
+<img width="274" height="147" alt="image" src="https://github.com/user-attachments/assets/13a0b7bb-e35a-4056-a224-ba6be2bff67a" />
+<img width="258" height="295" alt="image" src="https://github.com/user-attachments/assets/8c102c89-78ea-43aa-92ef-abf5f9176c9a" />
 
 > **ADICIONAR GIF DA NAVEGAÇÃO**
 
