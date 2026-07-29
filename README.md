@@ -60,6 +60,27 @@ Porém cada poliedro pode ser editado individualmente e pode ter seu estado inic
 
 ---
 
+## Renderização Wireframe
+
+Toda a renderização wireframe é realizada manualmente.
+
+O processo consiste em:
+
+- transformação dos vértices;
+- conversão para espaço da câmera;
+- projeção em perspectiva;
+- desenho das arestas utilizando GDI+.
+
+Nenhuma biblioteca gráfica externa é utilizada.
+
+<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/8938d211-fbff-4759-a07b-dc2bffed9c18" />
+
+Pode-se também alterar as configurações da caneta para facilitar a visualização dos vértices e arestas.
+
+<img width="520" height="362" alt="image" src="https://github.com/user-attachments/assets/04dc559a-580f-47f5-ba06-eda564bb6cb5" />
+
+---
+
 ## Transformações dos Objetos
 
 Cada objeto possui transformações independentes.
@@ -131,23 +152,6 @@ Sempre que um poliedro é criado ou sofre alterações estruturais, é executado
 Isso permite que novos poliedros sejam gerados dinamicamente sem necessidade de definir manualmente todas as faces.
 
 > **ADICIONAR GIF MOSTRANDO O RECÁLCULO DAS FACES**
-
----
-
-## Renderização Wireframe
-
-Toda a renderização wireframe é realizada manualmente.
-
-O processo consiste em:
-
-- transformação dos vértices;
-- conversão para espaço da câmera;
-- projeção em perspectiva;
-- desenho das arestas utilizando GDI+.
-
-Nenhuma biblioteca gráfica externa é utilizada.
-
-<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/8938d211-fbff-4759-a07b-dc2bffed9c18" />
 
 ---
 
