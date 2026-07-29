@@ -290,7 +290,7 @@ Durante o desenvolvimento foram implementados manualmente diversos conceitos fun
 - Cálculo de Normais
 - Reconexão Automática de Arestas
 
-<img width="1150" height="905" alt="image" src="https://github.com/user-attachments/assets/af240d87-ee24-4dc5-8062-e06e9f9b8344" />
+<img width="450" height="377" alt="image" src="https://github.com/user-attachments/assets/cb093295-fd5d-4ba7-8b63-9a52fc475f0e" />
 
 ---
 
