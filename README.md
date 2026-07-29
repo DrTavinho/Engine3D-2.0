@@ -326,6 +326,6 @@ https://github.com/DesignEngrLab/MIConvexHull
 
 # Autor
 
-Desenvolvido por **Gustavo Rodrigues Muti Pacheco** como projeto de estudo em Computação Gráfica, com foco na implementação manual dos principais algoritmos utilizados em engines 3D.
+Desenvolvido por **Gustavo Rodrigues Muti Pacheco** como projeto de estudo em Computação Gráfica, com foco na implementação manual dos principais algoritmos utilizados em engines 3D. Projeto final para curso de Engenharia da Computação.
 
 <img width="450" height="377" alt="image" src="https://github.com/user-attachments/assets/cb093295-fd5d-4ba7-8b63-9a52fc475f0e" />
