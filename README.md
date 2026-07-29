@@ -74,7 +74,7 @@ Cada objeto possui transformações independentes.
 
 Todas as transformações são aplicadas em tempo real.
 
-> **ADICIONAR GIF EDITANDO TRANSFORMAÇÕES**
+<img width="782" height="542" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/5831c46f-cd52-43fd-ab63-5612f4b1a624" />
 
 ---
 
@@ -185,7 +185,6 @@ Recursos:
 - inversão de movimento X e Y do mouse para câmera
 
 <img width="274" height="147" alt="image" src="https://github.com/user-attachments/assets/13a0b7bb-e35a-4056-a224-ba6be2bff67a" />
-
 <img width="258" height="295" alt="image" src="https://github.com/user-attachments/assets/8c102c89-78ea-43aa-92ef-abf5f9176c9a" />
 
 > **ADICIONAR GIF DA NAVEGAÇÃO**
