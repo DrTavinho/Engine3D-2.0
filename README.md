@@ -56,6 +56,7 @@ Porém cada poliedro pode ser editado individualmente e pode ter seu estado inic
 <img width="456" height="188" alt="image" src="https://github.com/user-attachments/assets/0455ca13-3607-4be2-9407-3a6c58fbee85" />
 
 <img width="784" height="538" alt="2026-07-2822-28-46-ezgif com-optimize" src="https://github.com/user-attachments/assets/6c8ea42b-633c-4b62-a7d0-2836dd9e5ccc" />
+<img width="784" height="542" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/e797c05e-0eec-489a-bcd8-f5dd25e3b044" />
 
 ---
 
@@ -89,21 +90,7 @@ Cada vértice pode ser expandido individualmente para editar suas coordenadas X,
 
 ---
 
-## Seleção de Objetos
-
-Os objetos podem ser selecionados de diversas maneiras:
-
-- clicando diretamente na viewport;
-- selecionando na lista da cena;
-- através da PropertyGrid.
-
-Todos os componentes permanecem sincronizados automaticamente.
-
-> **ADICIONAR GIF DA SELEÇÃO DE OBJETOS**
-
----
-
-## Seleção Individual de Vértices
+## Seleção Individual de Objetos e Vértices
 
 Cada vértice pode ser selecionado diretamente na viewport.
 
