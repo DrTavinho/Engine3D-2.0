@@ -153,6 +153,8 @@ Cada objeto possui transformações independentes.
 
 É possível alterar:
 
+- Nome
+- Visibilidade
 - Posição
 - Escala
 - Rotação em X / Y / Z
